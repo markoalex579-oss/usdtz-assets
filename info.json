@@ -1,6 +1,6 @@
 
 {
-  "name": "USDT.z",
+  "name": "Tether USD Bridged ZED20",
   "symbol": "USDT.z",
   "type": "BEP20",
   "chainId": 56,
