@@ -1,0 +1,11 @@
+
+{
+  "name": "USDT.z",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "chainId": 56,
+  "address": "0x5034D47F9ebccFe4fCBC99a738e153dE502e4A50",
+  "description": "USDT.z is an independently issued token on BNB Smart Chain. It is not affiliated with or endorsed by Tether.",
+  "explorer": "https://bscscan.com/token/0x5034D47F9ebccFe4fCBC99a738e153dE502e4A50",
+  "logoURI": "https://raw.githubusercontent.com/markoalex579-oss/usdtz-assets/main/logo.png"
+}
